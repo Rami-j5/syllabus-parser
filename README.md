@@ -6,7 +6,7 @@ A full-stack web app that parses university course syllabi and automatically syn
 
 Upload a syllabus PDF → review and edit parsed items → sync to Google in one click.
 
-![Upload Page](frontend/src/assets/hero.png)
+![Upload Page](assets/hero.png)
 
 ## Features
 
